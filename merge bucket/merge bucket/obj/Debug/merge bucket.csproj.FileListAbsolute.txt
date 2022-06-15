@@ -1,0 +1,7 @@
+C:\Users\kağan küçük\source\repos\merge bucket\merge bucket\obj\Debug\merge bucket.csprojAssemblyReference.cache
+C:\Users\kağan küçük\source\repos\merge bucket\merge bucket\obj\Debug\merge bucket.csproj.CoreCompileInputs.cache
+C:\Users\kağan küçük\source\repos\merge bucket\merge bucket\bin\Debug\merge bucket.exe.config
+C:\Users\kağan küçük\source\repos\merge bucket\merge bucket\bin\Debug\merge bucket.exe
+C:\Users\kağan küçük\source\repos\merge bucket\merge bucket\bin\Debug\merge bucket.pdb
+C:\Users\kağan küçük\source\repos\merge bucket\merge bucket\obj\Debug\merge bucket.exe
+C:\Users\kağan küçük\source\repos\merge bucket\merge bucket\obj\Debug\merge bucket.pdb
