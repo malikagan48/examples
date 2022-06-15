@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1622
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sözlük", "Sözlük\Sözlük.csproj", "{FEA2F266-D61A-4760-A9A0-313D696EC58D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FEA2F266-D61A-4760-A9A0-313D696EC58D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEA2F266-D61A-4760-A9A0-313D696EC58D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEA2F266-D61A-4760-A9A0-313D696EC58D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEA2F266-D61A-4760-A9A0-313D696EC58D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8E28C2F4-9BF3-4EE0-9BA2-83177F8DA69D}
+	EndGlobalSection
+EndGlobal

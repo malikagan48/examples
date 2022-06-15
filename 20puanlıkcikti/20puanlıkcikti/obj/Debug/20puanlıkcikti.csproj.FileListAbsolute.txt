@@ -1,0 +1,7 @@
+C:\Users\kağan küçük\source\repos\20puanlıkcikti\20puanlıkcikti\obj\Debug\20puanlıkcikti.csprojAssemblyReference.cache
+C:\Users\kağan küçük\source\repos\20puanlıkcikti\20puanlıkcikti\obj\Debug\20puanlıkcikti.csproj.CoreCompileInputs.cache
+C:\Users\kağan küçük\source\repos\20puanlıkcikti\20puanlıkcikti\bin\Debug\20puanlıkcikti.exe.config
+C:\Users\kağan küçük\source\repos\20puanlıkcikti\20puanlıkcikti\bin\Debug\20puanlıkcikti.exe
+C:\Users\kağan küçük\source\repos\20puanlıkcikti\20puanlıkcikti\bin\Debug\20puanlıkcikti.pdb
+C:\Users\kağan küçük\source\repos\20puanlıkcikti\20puanlıkcikti\obj\Debug\20puanlıkcikti.exe
+C:\Users\kağan küçük\source\repos\20puanlıkcikti\20puanlıkcikti\obj\Debug\20puanlıkcikti.pdb

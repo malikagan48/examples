@@ -1,0 +1,7 @@
+C:\Users\kağan küçük\source\repos\2liksayisistemi\2liksayisistemi\bin\Debug\2liksayisistemi.exe.config
+C:\Users\kağan küçük\source\repos\2liksayisistemi\2liksayisistemi\bin\Debug\2liksayisistemi.exe
+C:\Users\kağan küçük\source\repos\2liksayisistemi\2liksayisistemi\bin\Debug\2liksayisistemi.pdb
+C:\Users\kağan küçük\source\repos\2liksayisistemi\2liksayisistemi\obj\Debug\2liksayisistemi.csprojAssemblyReference.cache
+C:\Users\kağan küçük\source\repos\2liksayisistemi\2liksayisistemi\obj\Debug\2liksayisistemi.csproj.CoreCompileInputs.cache
+C:\Users\kağan küçük\source\repos\2liksayisistemi\2liksayisistemi\obj\Debug\2liksayisistemi.exe
+C:\Users\kağan küçük\source\repos\2liksayisistemi\2liksayisistemi\obj\Debug\2liksayisistemi.pdb

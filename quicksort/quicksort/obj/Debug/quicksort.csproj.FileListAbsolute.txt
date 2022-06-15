@@ -1,0 +1,7 @@
+C:\Users\kağan küçük\source\repos\quicksort\quicksort\bin\Debug\quicksort.exe.config
+C:\Users\kağan küçük\source\repos\quicksort\quicksort\bin\Debug\quicksort.exe
+C:\Users\kağan küçük\source\repos\quicksort\quicksort\bin\Debug\quicksort.pdb
+C:\Users\kağan küçük\source\repos\quicksort\quicksort\obj\Debug\quicksort.csprojAssemblyReference.cache
+C:\Users\kağan küçük\source\repos\quicksort\quicksort\obj\Debug\quicksort.csproj.CoreCompileInputs.cache
+C:\Users\kağan küçük\source\repos\quicksort\quicksort\obj\Debug\quicksort.exe
+C:\Users\kağan küçük\source\repos\quicksort\quicksort\obj\Debug\quicksort.pdb

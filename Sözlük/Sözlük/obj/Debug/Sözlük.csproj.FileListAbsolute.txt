@@ -1,0 +1,7 @@
+C:\Users\kağan küçük\source\repos\Sözlük\Sözlük\bin\Debug\Sözlük.exe.config
+C:\Users\kağan küçük\source\repos\Sözlük\Sözlük\bin\Debug\Sözlük.exe
+C:\Users\kağan küçük\source\repos\Sözlük\Sözlük\bin\Debug\Sözlük.pdb
+C:\Users\kağan küçük\source\repos\Sözlük\Sözlük\obj\Debug\Sözlük.csprojAssemblyReference.cache
+C:\Users\kağan küçük\source\repos\Sözlük\Sözlük\obj\Debug\Sözlük.csproj.CoreCompileInputs.cache
+C:\Users\kağan küçük\source\repos\Sözlük\Sözlük\obj\Debug\Sözlük.exe
+C:\Users\kağan küçük\source\repos\Sözlük\Sözlük\obj\Debug\Sözlük.pdb

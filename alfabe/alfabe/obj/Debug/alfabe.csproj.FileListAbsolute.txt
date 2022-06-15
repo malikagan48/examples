@@ -1,0 +1,7 @@
+C:\Users\kağan küçük\source\repos\alfabe\alfabe\bin\Debug\alfabe.exe.config
+C:\Users\kağan küçük\source\repos\alfabe\alfabe\bin\Debug\alfabe.exe
+C:\Users\kağan küçük\source\repos\alfabe\alfabe\bin\Debug\alfabe.pdb
+C:\Users\kağan küçük\source\repos\alfabe\alfabe\obj\Debug\alfabe.csprojAssemblyReference.cache
+C:\Users\kağan küçük\source\repos\alfabe\alfabe\obj\Debug\alfabe.csproj.CoreCompileInputs.cache
+C:\Users\kağan küçük\source\repos\alfabe\alfabe\obj\Debug\alfabe.exe
+C:\Users\kağan küçük\source\repos\alfabe\alfabe\obj\Debug\alfabe.pdb

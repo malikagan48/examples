@@ -1,0 +1,7 @@
+C:\Users\kağan küçük\source\repos\yirmilikdigercikti\yirmilikdigercikti\bin\Debug\yirmilikdigercikti.exe.config
+C:\Users\kağan küçük\source\repos\yirmilikdigercikti\yirmilikdigercikti\bin\Debug\yirmilikdigercikti.exe
+C:\Users\kağan küçük\source\repos\yirmilikdigercikti\yirmilikdigercikti\bin\Debug\yirmilikdigercikti.pdb
+C:\Users\kağan küçük\source\repos\yirmilikdigercikti\yirmilikdigercikti\obj\Debug\yirmilikdigercikti.csprojAssemblyReference.cache
+C:\Users\kağan küçük\source\repos\yirmilikdigercikti\yirmilikdigercikti\obj\Debug\yirmilikdigercikti.csproj.CoreCompileInputs.cache
+C:\Users\kağan küçük\source\repos\yirmilikdigercikti\yirmilikdigercikti\obj\Debug\yirmilikdigercikti.exe
+C:\Users\kağan küçük\source\repos\yirmilikdigercikti\yirmilikdigercikti\obj\Debug\yirmilikdigercikti.pdb
